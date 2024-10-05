@@ -39,6 +39,8 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
+- [ButterSEO](https://butterseo.ai/) - One-Click SEO for Busy Founders to Get Sales 
+
 
 
 ## E
